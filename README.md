@@ -1,2 +1,2 @@
 # The-Truth-Curve-Game
-The Truth Curve game is an interactive game where participants will learn the different approaches that famous big companies, such as Google, Tesla, Uber, Spotify (and many more) has used to gain more confidence in their Product before launching it.
+The Truth Curve game is an interactive game where participants will learn the different approaches that famous big companies, such as Google, Tesla, Uber, Spotify (and many more) has used to gain more confidence in their Product before launching it. By the end of this game, you will learn about the Truth Curve, a concept used in Lean UX and product development to help teams determine the right amount of effort to spend on an experiment or hypothesis.
